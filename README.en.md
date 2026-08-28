@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/readme/hero.png" alt="crt.name Historical Subdomain Search" width="100%"></p>
+
 # crt.name Historical Subdomain Search Skill
 
 [Chinese README](./README.md)
