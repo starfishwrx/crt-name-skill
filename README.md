@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/readme/hero.png" alt="crt.name 历史子域名查询" width="100%"></p>
 
-# crt.name 历史子域名查询 Skill
+# 历史子域名查询 Skill
 
 [English README](./README.en.md)
 
